@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+body{
+    background-image: url(https://www.grandtheftauto5.fr/images/artworks-officiels/gta-5-artwork-los-santos-tuners-2.jpg) ; 
+    color: white;
+}
+img{
+    height: 150px;
+    weight:150px;
+}
+nav{
+    display: block;
+}
+
+li{
+ background-color: red;
+}
+h3{
+    width: 73%;
+    text-align: left;
+}
+.container{
+   display: grid;
+   grid-template-columns: 2fr 3fr;
+   gap: 20px;
+
+}
+
+
+   
+   
+
+
+
