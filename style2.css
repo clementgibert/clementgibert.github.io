@@ -1,0 +1,9 @@
+body{
+    color:white;
+    background-image: url(https://www.rockstargames.com/fr/img/global/downloads/wallpapers/rockstar/glow_newyork_1920x1080.jpg)
+}
+img{
+    border-radius: 10%;
+    height: 300px;
+    weight:300px;
+}
